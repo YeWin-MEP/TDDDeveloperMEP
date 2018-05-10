@@ -10,11 +10,12 @@ The source code for all examples can be found in the directory src/com/myanmaref
   2. A brief intro to JUnit, the de facto Java testing framework
   3. A TDD example with a single use case
   4. A TDD example with multiple use case
-  5. TDD Test Doubles (Dummy Object)
-  6. TDD Test Doubles (Stub Object)
-  7. TDD Test Doubles (Fake Object)
-  8. TDD Test Doubles (Mock Object)
-  9. TDD Developer Project
+  5. TDD Test Doubles Introduction
+  6. TDD Test Doubles (Dummy Object)
+  7. TDD Test Doubles (Stub Object)
+  8. TDD Test Doubles (Fake Object)
+  9. TDD Test Doubles (Mock Object)
+  10. TDD Developer Project
 
 # Development
   1. You can download the zip project by clicking "Clone or download" button of right side
